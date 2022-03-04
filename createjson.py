@@ -38,4 +38,4 @@ def calculate_lockdown(active):
     else:
         lockdown = NO
     return lockdown
-catch_cases("austria")
+
